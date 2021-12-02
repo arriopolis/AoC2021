@@ -1,0 +1,1 @@
+print(next(a*b for a,b in [list(map(sum, zip(*map(lambda x : (0,int(x[1])) if x[0] == 'down' else (0,-int(x[1])) if x[0] == 'up' else (int(x[1]),0), map(lambda x : x.strip().split(), open('input.txt').readlines())))))]))
