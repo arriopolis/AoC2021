@@ -1,0 +1,1 @@
+print(next(int(x,2) * int(''.join({'1':'0','0':'1'}[c] for c in x),2) for x in [''.join(map(lambda x : str(int(2*sum(x) > len(x))), zip(*list(map(lambda x : list(map(int,x.strip())), open('input.txt').readlines())))))]))
