@@ -39,7 +39,7 @@ for i,(name,res) in enumerate(sorted(results.items(), key = lambda x : x[0].lowe
         marker = MARKERS[i//len(COLORS)]
         markersize = MARKERSIZES[i//len(COLORS)]
         ax.plot(xs, ys, marker = marker, markersize = markersize, linestyle = '', color = color, label = name if j == 0 else None, zorder = 10)
-        ax.plot(xs, ys, color = color, linestyle = '--' if j == 1 else '-', alpha = .2)
+        ax.plot(xs, ys, color = color, linestyle = '--' if j == 1 else '-', alpha = .3, linewidth = 1.5)
 
 box = ax.get_position()
 ax.set_position([box.x0 + .12*box.width, box.y0, .95*box.width, box.height])
