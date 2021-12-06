@@ -1,0 +1,1 @@
+print(next(sum(d.values()) for d in [{}] for _ in [[d.update({int(n):d[int(n)]+1 if int(n) in d else 1}) for n in open('input.txt').read().split(',')]] for _ in [[(d.update({6:d[6]+k if 6 in d else k}), d.update({8:d[8]+k if 8 in d else k})) if n == 0 else d.update({n-1:d[n-1]+k if n-1 in d else k}) for _ in range(256) for n,k in [dict(d).items(),d.clear()][0]]]))
