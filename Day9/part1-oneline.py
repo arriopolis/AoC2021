@@ -1,0 +1,1 @@
+print(sum(g[y][x] + 1 for g in [list(map(lambda x : list(map(int,x.strip())), open('input.txt').readlines()))] for y in range(len(g)) for x in range(len(g[0])) if g[y][x] <= min(g[y+dy][x+dx] for dy in range(-1,2) for dx in range(-1,2) if (dy != 0 or dx != 0) and 0 <= y+dy < len(g) and 0 <= x+dx < len(g[0]))))
