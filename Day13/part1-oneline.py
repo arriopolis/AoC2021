@@ -1,0 +1,1 @@
+print(next(len(d) for i,j in [open('input.txt').read().strip().split('\n\n')] for d in [set([tuple(map(int,s.split(','))) for s in i.split('\n')])] for c,n in [(c,int(n)) for s in j.split('\n') for c,n in [s[11:].split('=')]] for _ in [(d.remove((x,y)), d.add((x,min(y,2*n-y)) if c == 'y' else (min(x,2*n-x),y))) for x,y in list(d)]))
