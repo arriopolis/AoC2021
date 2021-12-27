@@ -1,0 +1,7805 @@
+We investigate this entry:
+Score: 0 
+Lower bound: 12499 
+#############
+#...........#
+###B#C#B#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 0 
+Lower bound: 12499 
+#############
+#...........#
+###B#C#B#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2000 
+Lower bound: 12499 
+#############
+#.......D...#
+###B#C#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2000 
+Lower bound: 12499 
+#############
+#.......D...#
+###B#C#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2020 
+Lower bound: 12499 
+#############
+#...B...D...#
+###.#C#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2020 
+Lower bound: 12499 
+#############
+#...B...D...#
+###.#C#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2200 
+Lower bound: 12499 
+#############
+#.....C.D...#
+###B#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2200 
+Lower bound: 12499 
+#############
+#.....C.D...#
+###B#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 20 
+Lower bound: 12499 
+#############
+#...B.......#
+###.#C#B#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 20 
+Lower bound: 12499 
+#############
+#...B.......#
+###.#C#B#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 200 
+Lower bound: 12499 
+#############
+#.....C.....#
+###B#.#B#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 200 
+Lower bound: 12499 
+#############
+#.....C.....#
+###B#.#B#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2220 
+Lower bound: 12499 
+#############
+#...B.C.D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2220 
+Lower bound: 12499 
+#############
+#...B.C.D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 220 
+Lower bound: 12499 
+#############
+#...B.C.....#
+###.#.#B#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 220 
+Lower bound: 12499 
+#############
+#...B.C.....#
+###.#.#B#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2020 
+Lower bound: 12499 
+#############
+#...B...D...#
+###.#C#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2020 
+Lower bound: 12499 
+#############
+#...B...D...#
+###.#C#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2200 
+Lower bound: 12499 
+#############
+#.....C.D...#
+###B#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2200 
+Lower bound: 12499 
+#############
+#.....C.D...#
+###B#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2220 
+Lower bound: 12499 
+#############
+#...B.C.D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2220 
+Lower bound: 12499 
+#############
+#...B.C.D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2220 
+Lower bound: 12519 
+#############
+#.B...C.D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2220 
+Lower bound: 12519 
+#############
+#.B...C.D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 240 
+Lower bound: 12519 
+#############
+#...B.C.B...#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 440 
+Lower bound: 12519 
+#############
+#...B...B...#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 40 
+Lower bound: 12519 
+#############
+#...B...B...#
+###.#C#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 440 
+Lower bound: 12519 
+#############
+#...B...B...#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 20 
+Lower bound: 12519 
+#############
+#.B.........#
+###.#C#B#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 20 
+Lower bound: 12519 
+#############
+#.B.........#
+###.#C#B#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2020 
+Lower bound: 12519 
+#############
+#.B.....D...#
+###.#C#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2020 
+Lower bound: 12519 
+#############
+#.B.....D...#
+###.#C#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 40 
+Lower bound: 12519 
+#############
+#.B...B.....#
+###.#C#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 40 
+Lower bound: 12519 
+#############
+#.B...B.....#
+###.#C#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2040 
+Lower bound: 12519 
+#############
+#...B...D...#
+###B#C#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2440 
+Lower bound: 12519 
+#############
+#...B...D...#
+###B#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5440 
+Lower bound: 12519 
+#############
+#...B.D.D...#
+###B#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5510 
+Lower bound: 12519 
+#############
+#.....D.D...#
+###.#B#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 40 
+Lower bound: 12519 
+#############
+#...B.......#
+###B#C#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 440 
+Lower bound: 12519 
+#############
+#...B.......#
+###B#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 220 
+Lower bound: 12519 
+#############
+#.B...C.....#
+###.#.#B#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 220 
+Lower bound: 12519 
+#############
+#.B...C.....#
+###.#.#B#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2040 
+Lower bound: 12519 
+#############
+#.B...B.D...#
+###.#C#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2040 
+Lower bound: 12519 
+#############
+#.B...B.D...#
+###.#C#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 3440 
+Lower bound: 12519 
+#############
+#...B.D.....#
+###B#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3510 
+Lower bound: 12519 
+#############
+#.....D.....#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2220 
+Lower bound: 12519 
+#############
+#.B...C.D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2220 
+Lower bound: 12519 
+#############
+#.B...C.D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5440 
+Lower bound: 12519 
+#############
+#...B...D...#
+###B#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5510 
+Lower bound: 12519 
+#############
+#.......D...#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5510 
+Lower bound: 12519 
+#############
+#.....D.D...#
+###.#B#C#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5510 
+Lower bound: 12519 
+#############
+#.....D.D...#
+###.#B#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2440 
+Lower bound: 12519 
+#############
+#...B...D...#
+###B#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2440 
+Lower bound: 12519 
+#############
+#...B...D...#
+###B#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5510 
+Lower bound: 12519 
+#############
+#.....D...D.#
+###.#B#C#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5510 
+Lower bound: 12519 
+#############
+#.....D...D.#
+###.#B#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2030 
+Lower bound: 12539 
+#############
+#B......D...#
+###.#C#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2030 
+Lower bound: 12539 
+#############
+#B......D...#
+###.#C#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 40 
+Lower bound: 12539 
+#############
+#.B.....B...#
+###.#C#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 440 
+Lower bound: 12539 
+#############
+#.B.....B...#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 230 
+Lower bound: 12539 
+#############
+#B....C.....#
+###.#.#B#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 230 
+Lower bound: 12539 
+#############
+#B....C.....#
+###.#.#B#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 60 
+Lower bound: 12539 
+#############
+#.B.B.......#
+###.#C#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 460 
+Lower bound: 12539 
+#############
+#.B.B.......#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2050 
+Lower bound: 12539 
+#############
+#B....B.D...#
+###.#C#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2050 
+Lower bound: 12539 
+#############
+#B....B.D...#
+###.#C#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 30 
+Lower bound: 12539 
+#############
+#B..........#
+###.#C#B#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 30 
+Lower bound: 12539 
+#############
+#B..........#
+###.#C#B#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 240 
+Lower bound: 12539 
+#############
+#.B...C.B...#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 440 
+Lower bound: 12539 
+#############
+#.B.....B...#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 460 
+Lower bound: 12539 
+#############
+#.B.B.......#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 460 
+Lower bound: 12539 
+#############
+#.B.B.......#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 3460 
+Lower bound: 12539 
+#############
+#.B.B.D.....#
+###.#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3530 
+Lower bound: 12539 
+#############
+#.....D.....#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2060 
+Lower bound: 12539 
+#############
+#.B.B...D...#
+###.#C#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2460 
+Lower bound: 12539 
+#############
+#.B.B...D...#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2230 
+Lower bound: 12539 
+#############
+#B....C.D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2230 
+Lower bound: 12539 
+#############
+#B....C.D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 50 
+Lower bound: 12539 
+#############
+#B....B.....#
+###.#C#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 50 
+Lower bound: 12539 
+#############
+#B....B.....#
+###.#C#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2460 
+Lower bound: 12539 
+#############
+#.B.B...D...#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2460 
+Lower bound: 12539 
+#############
+#.B.B...D...#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2030 
+Lower bound: 12539 
+#############
+#B......D...#
+###.#C#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2030 
+Lower bound: 12539 
+#############
+#B......D...#
+###.#C#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 230 
+Lower bound: 12539 
+#############
+#B....C.....#
+###.#.#B#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 230 
+Lower bound: 12539 
+#############
+#B....C.....#
+###.#.#B#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5460 
+Lower bound: 12539 
+#############
+#.B.B.D.D...#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5530 
+Lower bound: 12539 
+#############
+#.....D.D...#
+###.#B#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5460 
+Lower bound: 12539 
+#############
+#.B.B...D...#
+###.#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5530 
+Lower bound: 12539 
+#############
+#.......D...#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2050 
+Lower bound: 12539 
+#############
+#B....B.D...#
+###.#C#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2050 
+Lower bound: 12539 
+#############
+#B....B.D...#
+###.#C#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 60 
+Lower bound: 12559 
+#############
+#...B.....B.#
+###.#C#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 460 
+Lower bound: 12559 
+#############
+#...B.....B.#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 250 
+Lower bound: 12559 
+#############
+#B....C.B...#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 450 
+Lower bound: 12559 
+#############
+#B......B...#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 260 
+Lower bound: 12559 
+#############
+#...B.C...B.#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 460 
+Lower bound: 12559 
+#############
+#...B.....B.#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2070 
+Lower bound: 12559 
+#############
+#B..B...D...#
+###.#C#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2470 
+Lower bound: 12559 
+#############
+#B..B...D...#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2060 
+Lower bound: 12559 
+#############
+#.B.....D...#
+###B#C#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2460 
+Lower bound: 12559 
+#############
+#.B.....D...#
+###B#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 70 
+Lower bound: 12559 
+#############
+#B..B.......#
+###.#C#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 470 
+Lower bound: 12559 
+#############
+#B..B.......#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5460 
+Lower bound: 12559 
+#############
+#.B...D.D...#
+###B#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5550 
+Lower bound: 12559 
+#############
+#.....D.D...#
+###.#B#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 470 
+Lower bound: 12559 
+#############
+#B..B.......#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 470 
+Lower bound: 12559 
+#############
+#B..B.......#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 50 
+Lower bound: 12559 
+#############
+#B......B...#
+###.#C#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 450 
+Lower bound: 12559 
+#############
+#B......B...#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5470 
+Lower bound: 12559 
+#############
+#B..B...D...#
+###.#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5550 
+Lower bound: 12559 
+#############
+#.......D...#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2470 
+Lower bound: 12559 
+#############
+#B..B...D...#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2470 
+Lower bound: 12559 
+#############
+#B..B...D...#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 60 
+Lower bound: 12559 
+#############
+#.B.........#
+###B#C#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 460 
+Lower bound: 12559 
+#############
+#.B.........#
+###B#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 3470 
+Lower bound: 12559 
+#############
+#B..B.D.....#
+###.#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3550 
+Lower bound: 12559 
+#############
+#.....D.....#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2460 
+Lower bound: 12559 
+#############
+#.B.....D...#
+###B#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2460 
+Lower bound: 12559 
+#############
+#.B.....D...#
+###B#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 3460 
+Lower bound: 12559 
+#############
+#.B...D.....#
+###B#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3550 
+Lower bound: 12559 
+#############
+#.....D.....#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5470 
+Lower bound: 12559 
+#############
+#B..B.D.D...#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5550 
+Lower bound: 12559 
+#############
+#.....D.D...#
+###.#B#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2460 
+Lower bound: 12559 
+#############
+#...B...D.B.#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2460 
+Lower bound: 12559 
+#############
+#...B...D.B.#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2480 
+Lower bound: 12559 
+#############
+#.B.B...D...#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2480 
+Lower bound: 12559 
+#############
+#.B.B...D...#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 480 
+Lower bound: 12559 
+#############
+#.B.B.......#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 480 
+Lower bound: 12559 
+#############
+#.B.B.......#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5460 
+Lower bound: 12559 
+#############
+#.B.....D...#
+###B#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5550 
+Lower bound: 12559 
+#############
+#.......D...#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5460 
+Lower bound: 12559 
+#############
+#...B.D.D.B.#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5490 
+Lower bound: 12559 
+#############
+#.....D.D.B.#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 260 
+Lower bound: 12579 
+#############
+#.B...C...B.#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 460 
+Lower bound: 12579 
+#############
+#.B.......B.#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 70 
+Lower bound: 12579 
+#############
+#...B......B#
+###.#C#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 470 
+Lower bound: 12579 
+#############
+#...B......B#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 60 
+Lower bound: 12579 
+#############
+#.B.......B.#
+###.#C#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 460 
+Lower bound: 12579 
+#############
+#.B.......B.#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 270 
+Lower bound: 12579 
+#############
+#...B.C....B#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 470 
+Lower bound: 12579 
+#############
+#...B......B#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2070 
+Lower bound: 12579 
+#############
+#B......D...#
+###B#C#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2470 
+Lower bound: 12579 
+#############
+#B......D...#
+###B#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2470 
+Lower bound: 12579 
+#############
+#...B...D..B#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2470 
+Lower bound: 12579 
+#############
+#...B...D..B#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5470 
+Lower bound: 12579 
+#############
+#...B.D.D..B#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5500 
+Lower bound: 12579 
+#############
+#.....D.D..B#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2460 
+Lower bound: 12579 
+#############
+#.B.....D.B.#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2460 
+Lower bound: 12579 
+#############
+#.B.....D.B.#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2500 
+Lower bound: 12579 
+#############
+#.B...B.D...#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2500 
+Lower bound: 12579 
+#############
+#.B...B.D...#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5460 
+Lower bound: 12579 
+#############
+#.B...D.D.B.#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5510 
+Lower bound: 12579 
+#############
+#.....D.D.B.#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5470 
+Lower bound: 12579 
+#############
+#B....D.D...#
+###B#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5570 
+Lower bound: 12579 
+#############
+#.....D.D...#
+###.#B#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 500 
+Lower bound: 12579 
+#############
+#.B...B.....#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 500 
+Lower bound: 12579 
+#############
+#.B...B.....#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2490 
+Lower bound: 12579 
+#############
+#B..B...D...#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2490 
+Lower bound: 12579 
+#############
+#B..B...D...#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 70 
+Lower bound: 12579 
+#############
+#B..........#
+###B#C#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 470 
+Lower bound: 12579 
+#############
+#B..........#
+###B#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5470 
+Lower bound: 12579 
+#############
+#B......D...#
+###B#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5570 
+Lower bound: 12579 
+#############
+#.......D...#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 490 
+Lower bound: 12579 
+#############
+#B..B.......#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 490 
+Lower bound: 12579 
+#############
+#B..B.......#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2470 
+Lower bound: 12579 
+#############
+#B......D...#
+###B#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2470 
+Lower bound: 12579 
+#############
+#B......D...#
+###B#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2500 
+Lower bound: 12579 
+#############
+#.B...B.D...#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2500 
+Lower bound: 12579 
+#############
+#.B...B.D...#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 3470 
+Lower bound: 12579 
+#############
+#B....D.....#
+###B#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3570 
+Lower bound: 12579 
+#############
+#.....D.....#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 490 
+Lower bound: 12599 
+#############
+#BB.........#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 490 
+Lower bound: 12599 
+#############
+#BB.........#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 90 
+Lower bound: 12599 
+#############
+#BB.........#
+###.#C#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 490 
+Lower bound: 12599 
+#############
+#BB.........#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5490 
+Lower bound: 12599 
+#############
+#BB.....D...#
+###.#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5590 
+Lower bound: 12599 
+#############
+#.......D...#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 70 
+Lower bound: 12599 
+#############
+#.B........B#
+###.#C#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 470 
+Lower bound: 12599 
+#############
+#.B........B#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 3490 
+Lower bound: 12599 
+#############
+#BB...D.....#
+###.#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3590 
+Lower bound: 12599 
+#############
+#.....D.....#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 270 
+Lower bound: 12599 
+#############
+#B....C...B.#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 470 
+Lower bound: 12599 
+#############
+#B........B.#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 70 
+Lower bound: 12599 
+#############
+#B........B.#
+###.#C#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 470 
+Lower bound: 12599 
+#############
+#B........B.#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2510 
+Lower bound: 12599 
+#############
+#B....B.D...#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2510 
+Lower bound: 12599 
+#############
+#B....B.D...#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 270 
+Lower bound: 12599 
+#############
+#.B...C....B#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 470 
+Lower bound: 12599 
+#############
+#.B........B#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2090 
+Lower bound: 12599 
+#############
+#BB.....D...#
+###.#C#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2490 
+Lower bound: 12599 
+#############
+#BB.....D...#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 510 
+Lower bound: 12599 
+#############
+#B....B.....#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 510 
+Lower bound: 12599 
+#############
+#B....B.....#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2490 
+Lower bound: 12599 
+#############
+#BB.....D...#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2490 
+Lower bound: 12599 
+#############
+#BB.....D...#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2470 
+Lower bound: 12599 
+#############
+#.B.....D..B#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2470 
+Lower bound: 12599 
+#############
+#.B.....D..B#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5490 
+Lower bound: 12599 
+#############
+#BB...D.D...#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5590 
+Lower bound: 12599 
+#############
+#.....D.D...#
+###.#B#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2470 
+Lower bound: 12599 
+#############
+#B......D.B.#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2470 
+Lower bound: 12599 
+#############
+#B......D.B.#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5470 
+Lower bound: 12599 
+#############
+#.B...D.D..B#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5520 
+Lower bound: 12599 
+#############
+#.....D.D..B#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2510 
+Lower bound: 12599 
+#############
+#B....B.D...#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2510 
+Lower bound: 12599 
+#############
+#B....B.D...#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5470 
+Lower bound: 12599 
+#############
+#B....D.D.B.#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5530 
+Lower bound: 12599 
+#############
+#.....D.D.B.#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 520 
+Lower bound: 12619 
+#############
+#.B.....B...#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 520 
+Lower bound: 12619 
+#############
+#.B.....B...#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 80 
+Lower bound: 12619 
+#############
+#B.........B#
+###.#C#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 480 
+Lower bound: 12619 
+#############
+#B.........B#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 280 
+Lower bound: 12619 
+#############
+#B....C....B#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 480 
+Lower bound: 12619 
+#############
+#B.........B#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2480 
+Lower bound: 12619 
+#############
+#B......D..B#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2480 
+Lower bound: 12619 
+#############
+#B......D..B#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5480 
+Lower bound: 12619 
+#############
+#B....D.D..B#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5540 
+Lower bound: 12619 
+#############
+#.....D.D..B#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 530 
+Lower bound: 12639 
+#############
+#B......B...#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 530 
+Lower bound: 12639 
+#############
+#B......B...#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 540 
+Lower bound: 12659 
+#############
+#.B.......B.#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 540 
+Lower bound: 12659 
+#############
+#.B.......B.#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 550 
+Lower bound: 12679 
+#############
+#.B........B#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 550 
+Lower bound: 12679 
+#############
+#.B........B#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 550 
+Lower bound: 12679 
+#############
+#B........B.#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 550 
+Lower bound: 12679 
+#############
+#B........B.#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2200 
+Lower bound: 12699 
+#############
+#...C...D...#
+###B#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2200 
+Lower bound: 12699 
+#############
+#...C...D...#
+###B#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 200 
+Lower bound: 12699 
+#############
+#...C.......#
+###B#.#B#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 200 
+Lower bound: 12699 
+#############
+#...C.......#
+###B#.#B#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5200 
+Lower bound: 12699 
+#############
+#...C...D...#
+###B#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5690 
+Lower bound: 12699 
+#############
+#.......D...#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 560 
+Lower bound: 12699 
+#############
+#B.........B#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 560 
+Lower bound: 12699 
+#############
+#B.........B#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 3200 
+Lower bound: 12699 
+#############
+#...C.D.....#
+###B#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3200 
+Lower bound: 12699 
+#############
+#...C.D.....#
+###B#.#B#D###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 2200 
+Lower bound: 12699 
+#############
+#...C...D...#
+###B#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2200 
+Lower bound: 12699 
+#############
+#...C...D...#
+###B#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5200 
+Lower bound: 12699 
+#############
+#...C.D...D.#
+###B#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5200 
+Lower bound: 12699 
+#############
+#...C.D...D.#
+###B#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5200 
+Lower bound: 12699 
+#############
+#...C.D.D...#
+###B#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5200 
+Lower bound: 12699 
+#############
+#...C.D.D...#
+###B#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 240 
+Lower bound: 12719 
+#############
+#.B.C.B.....#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 240 
+Lower bound: 12719 
+#############
+#.B.C.B.....#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 220 
+Lower bound: 12719 
+#############
+#.B.C.......#
+###.#.#B#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 220 
+Lower bound: 12719 
+#############
+#.B.C.......#
+###.#.#B#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2220 
+Lower bound: 12719 
+#############
+#.B.C...D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2220 
+Lower bound: 12719 
+#############
+#.B.C...D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5220 
+Lower bound: 12719 
+#############
+#.B.C...D...#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5710 
+Lower bound: 12719 
+#############
+#.......D...#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3220 
+Lower bound: 12719 
+#############
+#.B.C.D.....#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3220 
+Lower bound: 12719 
+#############
+#.B.C.D.....#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5220 
+Lower bound: 12719 
+#############
+#.B.C.D.D...#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5220 
+Lower bound: 12719 
+#############
+#.B.C.D.D...#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 2240 
+Lower bound: 12719 
+#############
+#.B.C.B.D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2240 
+Lower bound: 12719 
+#############
+#.B.C.B.D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5220 
+Lower bound: 12719 
+#############
+#.B.C.D...D.#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5220 
+Lower bound: 12719 
+#############
+#.B.C.D...D.#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 240 
+Lower bound: 12719 
+#############
+#.B.C.B.....#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 240 
+Lower bound: 12719 
+#############
+#.B.C.B.....#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 240 
+Lower bound: 12739 
+#############
+#.B.C...B...#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 640 
+Lower bound: 12739 
+#############
+#.B.....B...#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 3230 
+Lower bound: 12739 
+#############
+#B..C.D.....#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3230 
+Lower bound: 12739 
+#############
+#B..C.D.....#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5230 
+Lower bound: 12739 
+#############
+#B..C.D...D.#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5230 
+Lower bound: 12739 
+#############
+#B..C.D...D.#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 2250 
+Lower bound: 12739 
+#############
+#B..C.B.D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2250 
+Lower bound: 12739 
+#############
+#B..C.B.D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 230 
+Lower bound: 12739 
+#############
+#B..C.......#
+###.#.#B#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 230 
+Lower bound: 12739 
+#############
+#B..C.......#
+###.#.#B#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2230 
+Lower bound: 12739 
+#############
+#B..C...D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2230 
+Lower bound: 12739 
+#############
+#B..C...D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5230 
+Lower bound: 12739 
+#############
+#B..C.D.D...#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5230 
+Lower bound: 12739 
+#############
+#B..C.D.D...#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5230 
+Lower bound: 12739 
+#############
+#B..C...D...#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5730 
+Lower bound: 12739 
+#############
+#.......D...#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 250 
+Lower bound: 12739 
+#############
+#B..C.B.....#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 250 
+Lower bound: 12739 
+#############
+#B..C.B.....#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 3230 
+Lower bound: 12739 
+#############
+#B..C.D.....#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3230 
+Lower bound: 12739 
+#############
+#B..C.D.....#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 2250 
+Lower bound: 12739 
+#############
+#B..C.B.D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2250 
+Lower bound: 12739 
+#############
+#B..C.B.D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 250 
+Lower bound: 12759 
+#############
+#B..C...B...#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 650 
+Lower bound: 12759 
+#############
+#B......B...#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 260 
+Lower bound: 12779 
+#############
+#.B.C.....B.#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 660 
+Lower bound: 12779 
+#############
+#.B.......B.#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 3260 
+Lower bound: 12779 
+#############
+#.B.C.D...B.#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3260 
+Lower bound: 12779 
+#############
+#.B.C.D...B.#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5260 
+Lower bound: 12779 
+#############
+#.B.C.D.D.B.#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5260 
+Lower bound: 12779 
+#############
+#.B.C.D.D.B.#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 3270 
+Lower bound: 12799 
+#############
+#.B.C.D....B#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3270 
+Lower bound: 12799 
+#############
+#.B.C.D....B#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 270 
+Lower bound: 12799 
+#############
+#B..C.....B.#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 670 
+Lower bound: 12799 
+#############
+#B........B.#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5270 
+Lower bound: 12799 
+#############
+#.B.C.D...DB#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5270 
+Lower bound: 12799 
+#############
+#.B.C.D...DB#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5270 
+Lower bound: 12799 
+#############
+#.B.C.D.D..B#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5270 
+Lower bound: 12799 
+#############
+#.B.C.D.D..B#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 3270 
+Lower bound: 12799 
+#############
+#B..C.D...B.#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3270 
+Lower bound: 12799 
+#############
+#B..C.D...B.#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 270 
+Lower bound: 12799 
+#############
+#.B.C......B#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 670 
+Lower bound: 12799 
+#############
+#.B........B#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5270 
+Lower bound: 12799 
+#############
+#B..C.D.D.B.#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5270 
+Lower bound: 12799 
+#############
+#B..C.D.D.B.#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 3280 
+Lower bound: 12819 
+#############
+#B..C.D....B#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3280 
+Lower bound: 12819 
+#############
+#B..C.D....B#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 280 
+Lower bound: 12819 
+#############
+#B..C......B#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 680 
+Lower bound: 12819 
+#############
+#B.........B#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5280 
+Lower bound: 12819 
+#############
+#B..C.D...DB#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5280 
+Lower bound: 12819 
+#############
+#B..C.D...DB#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5280 
+Lower bound: 12819 
+#############
+#B..C.D.D..B#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5280 
+Lower bound: 12819 
+#############
+#B..C.D.D..B#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 2400 
+Lower bound: 13099 
+#############
+#.C.....D...#
+###B#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2400 
+Lower bound: 13099 
+#############
+#.C.....D...#
+###B#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2420 
+Lower bound: 13099 
+#############
+#.C.B...D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2420 
+Lower bound: 13099 
+#############
+#.C.B...D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5400 
+Lower bound: 13099 
+#############
+#.C...D.D...#
+###B#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5450 
+Lower bound: 13099 
+#############
+#.C...D.D...#
+###.#.#B#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 400 
+Lower bound: 13099 
+#############
+#.C.........#
+###B#.#B#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 400 
+Lower bound: 13099 
+#############
+#.C.........#
+###B#.#B#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2400 
+Lower bound: 13099 
+#############
+#.C.....D...#
+###B#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2400 
+Lower bound: 13099 
+#############
+#.C.....D...#
+###B#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 420 
+Lower bound: 13099 
+#############
+#.C.B.......#
+###.#.#B#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 420 
+Lower bound: 13099 
+#############
+#.C.B.......#
+###.#.#B#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5420 
+Lower bound: 13099 
+#############
+#.C.B.D.D...#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5450 
+Lower bound: 13099 
+#############
+#.C...D.D...#
+###.#.#B#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3400 
+Lower bound: 13099 
+#############
+#.C...D.....#
+###B#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3450 
+Lower bound: 13099 
+#############
+#.C...D.....#
+###.#.#B#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5400 
+Lower bound: 13099 
+#############
+#.C.....D...#
+###B#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6090 
+Lower bound: 13099 
+#############
+#.......D...#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2420 
+Lower bound: 13099 
+#############
+#.C.B...D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2420 
+Lower bound: 13099 
+#############
+#.C.B...D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5420 
+Lower bound: 13099 
+#############
+#.C.B...D...#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6090 
+Lower bound: 13099 
+#############
+#.......D...#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5450 
+Lower bound: 13099 
+#############
+#.C...D.D...#
+###.#.#B#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5450 
+Lower bound: 13099 
+#############
+#.C...D.D...#
+###.#.#B#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3420 
+Lower bound: 13099 
+#############
+#.C.B.D.....#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3450 
+Lower bound: 13099 
+#############
+#.C...D.....#
+###.#.#B#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5450 
+Lower bound: 13099 
+#############
+#.C...D...D.#
+###.#.#B#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5450 
+Lower bound: 13099 
+#############
+#.C...D...D.#
+###.#.#B#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 440 
+Lower bound: 13119 
+#############
+#.C.B.......#
+###B#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 440 
+Lower bound: 13119 
+#############
+#.C.B.......#
+###B#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 440 
+Lower bound: 13119 
+#############
+#.C.B...B...#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 440 
+Lower bound: 13119 
+#############
+#.C.B...B...#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5440 
+Lower bound: 13119 
+#############
+#.C.B...D...#
+###B#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6110 
+Lower bound: 13119 
+#############
+#.......D...#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2440 
+Lower bound: 13119 
+#############
+#.C.B...D...#
+###B#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2440 
+Lower bound: 13119 
+#############
+#.C.B...D...#
+###B#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 3440 
+Lower bound: 13119 
+#############
+#.C.B.D.....#
+###B#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3510 
+Lower bound: 13119 
+#############
+#.C...D.....#
+###.#B#.#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5440 
+Lower bound: 13119 
+#############
+#.C.B.D.D...#
+###B#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5510 
+Lower bound: 13119 
+#############
+#.C...D.D...#
+###.#B#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5510 
+Lower bound: 13119 
+#############
+#.C...D...D.#
+###.#B#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5510 
+Lower bound: 13119 
+#############
+#.C...D...D.#
+###.#B#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5510 
+Lower bound: 13119 
+#############
+#.C...D.D...#
+###.#B#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5510 
+Lower bound: 13119 
+#############
+#.C...D.D...#
+###.#B#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 430 
+Lower bound: 13139 
+#############
+#BC.........#
+###.#.#B#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 430 
+Lower bound: 13139 
+#############
+#BC.........#
+###.#.#B#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5430 
+Lower bound: 13139 
+#############
+#BC.....D...#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6130 
+Lower bound: 13139 
+#############
+#.......D...#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2450 
+Lower bound: 13139 
+#############
+#BC...B.D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2450 
+Lower bound: 13139 
+#############
+#BC...B.D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 3430 
+Lower bound: 13139 
+#############
+#BC...D.....#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3430 
+Lower bound: 13139 
+#############
+#BC...D.....#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5430 
+Lower bound: 13139 
+#############
+#BC...D...D.#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5430 
+Lower bound: 13139 
+#############
+#BC...D...D.#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 450 
+Lower bound: 13139 
+#############
+#BC...B.....#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 450 
+Lower bound: 13139 
+#############
+#BC...B.....#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5430 
+Lower bound: 13139 
+#############
+#BC...D.D...#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5430 
+Lower bound: 13139 
+#############
+#BC...D.D...#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 2430 
+Lower bound: 13139 
+#############
+#BC.....D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2430 
+Lower bound: 13139 
+#############
+#BC.....D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2450 
+Lower bound: 13139 
+#############
+#BC...B.D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2450 
+Lower bound: 13139 
+#############
+#BC...B.D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5430 
+Lower bound: 13139 
+#############
+#BC...D.D...#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5430 
+Lower bound: 13139 
+#############
+#BC...D.D...#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 470 
+Lower bound: 13159 
+#############
+#BC.B.......#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 470 
+Lower bound: 13159 
+#############
+#BC.B.......#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 450 
+Lower bound: 13159 
+#############
+#BC.....B...#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 1050 
+Lower bound: 13159 
+#############
+#B......B...#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 460 
+Lower bound: 13159 
+#############
+#.C.B.....B.#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 460 
+Lower bound: 13159 
+#############
+#.C.B.....B.#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2470 
+Lower bound: 13159 
+#############
+#BC.B...D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2470 
+Lower bound: 13159 
+#############
+#BC.B...D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5470 
+Lower bound: 13159 
+#############
+#BC.B...D...#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6150 
+Lower bound: 13159 
+#############
+#.......D...#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3460 
+Lower bound: 13159 
+#############
+#.C.B.D...B.#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3490 
+Lower bound: 13159 
+#############
+#.C...D...B.#
+###.#.#.#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3470 
+Lower bound: 13159 
+#############
+#BC.B.D.....#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3500 
+Lower bound: 13159 
+#############
+#BC...D.....#
+###.#.#.#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2460 
+Lower bound: 13159 
+#############
+#.C.B...D.B.#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2460 
+Lower bound: 13159 
+#############
+#.C.B...D.B.#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5490 
+Lower bound: 13159 
+#############
+#.C...D.D.B.#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5490 
+Lower bound: 13159 
+#############
+#.C...D.D.B.#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5460 
+Lower bound: 13159 
+#############
+#.C.B.D.D.B.#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5490 
+Lower bound: 13159 
+#############
+#.C...D.D.B.#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5500 
+Lower bound: 13159 
+#############
+#BC...D.D...#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5500 
+Lower bound: 13159 
+#############
+#BC...D.D...#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5470 
+Lower bound: 13159 
+#############
+#BC.B.D.D...#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5500 
+Lower bound: 13159 
+#############
+#BC...D.D...#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5500 
+Lower bound: 13159 
+#############
+#BC...D...D.#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5500 
+Lower bound: 13159 
+#############
+#BC...D...D.#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 470 
+Lower bound: 13179 
+#############
+#.C.B......B#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 470 
+Lower bound: 13179 
+#############
+#.C.B......B#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 3470 
+Lower bound: 13179 
+#############
+#.C.B.D....B#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3500 
+Lower bound: 13179 
+#############
+#.C...D....B#
+###.#.#.#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5500 
+Lower bound: 13179 
+#############
+#.C...D...DB#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5500 
+Lower bound: 13179 
+#############
+#.C...D...DB#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5500 
+Lower bound: 13179 
+#############
+#.C...D.D..B#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5500 
+Lower bound: 13179 
+#############
+#.C...D.D..B#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2470 
+Lower bound: 13179 
+#############
+#.C.B...D..B#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2470 
+Lower bound: 13179 
+#############
+#.C.B...D..B#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5470 
+Lower bound: 13179 
+#############
+#.C.B.D.D..B#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5500 
+Lower bound: 13179 
+#############
+#.C...D.D..B#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3470 
+Lower bound: 13199 
+#############
+#BC...D...B.#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3470 
+Lower bound: 13199 
+#############
+#BC...D...B.#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 470 
+Lower bound: 13199 
+#############
+#BC.......B.#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 1070 
+Lower bound: 13199 
+#############
+#B........B.#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5470 
+Lower bound: 13199 
+#############
+#BC...D.D.B.#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5470 
+Lower bound: 13199 
+#############
+#BC...D.D.B.#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 480 
+Lower bound: 13219 
+#############
+#BC........B#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 1080 
+Lower bound: 13219 
+#############
+#B.........B#
+###.#.#C#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 3480 
+Lower bound: 13219 
+#############
+#BC...D....B#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3480 
+Lower bound: 13219 
+#############
+#BC...D....B#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5480 
+Lower bound: 13219 
+#############
+#BC...D.D..B#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5480 
+Lower bound: 13219 
+#############
+#BC...D.D..B#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5480 
+Lower bound: 13219 
+#############
+#BC...D...DB#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5480 
+Lower bound: 13219 
+#############
+#BC...D...DB#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 2500 
+Lower bound: 13299 
+#############
+#C......D...#
+###B#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2500 
+Lower bound: 13299 
+#############
+#C......D...#
+###B#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2520 
+Lower bound: 13299 
+#############
+#C..B...D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2520 
+Lower bound: 13299 
+#############
+#C..B...D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 500 
+Lower bound: 13299 
+#############
+#C..........#
+###B#.#B#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 500 
+Lower bound: 13299 
+#############
+#C..........#
+###B#.#B#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 3500 
+Lower bound: 13299 
+#############
+#C....D.....#
+###B#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3550 
+Lower bound: 13299 
+#############
+#C....D.....#
+###.#.#B#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5520 
+Lower bound: 13299 
+#############
+#C..B.D.D...#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5550 
+Lower bound: 13299 
+#############
+#C....D.D...#
+###.#.#B#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5550 
+Lower bound: 13299 
+#############
+#C....D.D...#
+###.#.#B#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5550 
+Lower bound: 13299 
+#############
+#C....D.D...#
+###.#.#B#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5500 
+Lower bound: 13299 
+#############
+#C......D...#
+###B#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6290 
+Lower bound: 13299 
+#############
+#.......D...#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 520 
+Lower bound: 13299 
+#############
+#C..B.......#
+###.#.#B#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 520 
+Lower bound: 13299 
+#############
+#C..B.......#
+###.#.#B#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 3520 
+Lower bound: 13299 
+#############
+#C..B.D.....#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3550 
+Lower bound: 13299 
+#############
+#C....D.....#
+###.#.#B#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2500 
+Lower bound: 13299 
+#############
+#C......D...#
+###B#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2500 
+Lower bound: 13299 
+#############
+#C......D...#
+###B#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5520 
+Lower bound: 13299 
+#############
+#C..B...D...#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6290 
+Lower bound: 13299 
+#############
+#.......D...#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5500 
+Lower bound: 13299 
+#############
+#C....D.D...#
+###B#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5550 
+Lower bound: 13299 
+#############
+#C....D.D...#
+###.#.#B#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2520 
+Lower bound: 13299 
+#############
+#C..B...D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2520 
+Lower bound: 13299 
+#############
+#C..B...D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5550 
+Lower bound: 13299 
+#############
+#C....D...D.#
+###.#.#B#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5550 
+Lower bound: 13299 
+#############
+#C....D...D.#
+###.#.#B#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 540 
+Lower bound: 13319 
+#############
+#C..B...B...#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 540 
+Lower bound: 13319 
+#############
+#C..B...B...#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 520 
+Lower bound: 13319 
+#############
+#CB.........#
+###.#.#B#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 520 
+Lower bound: 13319 
+#############
+#CB.........#
+###.#.#B#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 540 
+Lower bound: 13319 
+#############
+#C..B.......#
+###B#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 540 
+Lower bound: 13319 
+#############
+#C..B.......#
+###B#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 3540 
+Lower bound: 13319 
+#############
+#C..B.D.....#
+###B#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3610 
+Lower bound: 13319 
+#############
+#C....D.....#
+###.#B#.#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5540 
+Lower bound: 13319 
+#############
+#C..B...D...#
+###B#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6310 
+Lower bound: 13319 
+#############
+#.......D...#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2540 
+Lower bound: 13319 
+#############
+#C..B...D...#
+###B#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2540 
+Lower bound: 13319 
+#############
+#C..B...D...#
+###B#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2520 
+Lower bound: 13319 
+#############
+#CB.....D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2520 
+Lower bound: 13319 
+#############
+#CB.....D...#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2540 
+Lower bound: 13319 
+#############
+#CB...B.D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2540 
+Lower bound: 13319 
+#############
+#CB...B.D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5520 
+Lower bound: 13319 
+#############
+#CB...D.D...#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5570 
+Lower bound: 13319 
+#############
+#C....D.D...#
+###.#.#B#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3520 
+Lower bound: 13319 
+#############
+#CB...D.....#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3570 
+Lower bound: 13319 
+#############
+#C....D.....#
+###.#.#B#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5520 
+Lower bound: 13319 
+#############
+#CB.....D...#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6310 
+Lower bound: 13319 
+#############
+#.......D...#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5540 
+Lower bound: 13319 
+#############
+#C..B.D.D...#
+###B#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5610 
+Lower bound: 13319 
+#############
+#C....D.D...#
+###.#B#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5610 
+Lower bound: 13319 
+#############
+#C....D.D...#
+###.#B#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5610 
+Lower bound: 13319 
+#############
+#C....D.D...#
+###.#B#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 540 
+Lower bound: 13319 
+#############
+#CB...B.....#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 540 
+Lower bound: 13319 
+#############
+#CB...B.....#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5610 
+Lower bound: 13319 
+#############
+#C....D...D.#
+###.#B#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5610 
+Lower bound: 13319 
+#############
+#C....D...D.#
+###.#B#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2540 
+Lower bound: 13319 
+#############
+#CB...B.D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2540 
+Lower bound: 13319 
+#############
+#CB...B.D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 540 
+Lower bound: 13339 
+#############
+#CB.....B...#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 540 
+Lower bound: 13339 
+#############
+#CB.....B...#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2560 
+Lower bound: 13339 
+#############
+#CB.B...D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2560 
+Lower bound: 13339 
+#############
+#CB.B...D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 560 
+Lower bound: 13339 
+#############
+#CB.B.......#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 560 
+Lower bound: 13339 
+#############
+#CB.B.......#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 3560 
+Lower bound: 13339 
+#############
+#CB.B.D.....#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3630 
+Lower bound: 13339 
+#############
+#C....D.....#
+###.#B#.#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5560 
+Lower bound: 13339 
+#############
+#CB.B...D...#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6330 
+Lower bound: 13339 
+#############
+#.......D...#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2560 
+Lower bound: 13339 
+#############
+#CB.B...D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2560 
+Lower bound: 13339 
+#############
+#CB.B...D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5560 
+Lower bound: 13339 
+#############
+#CB.B.D.D...#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5630 
+Lower bound: 13339 
+#############
+#C....D.D...#
+###.#B#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 560 
+Lower bound: 13359 
+#############
+#C..B.....B.#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 560 
+Lower bound: 13359 
+#############
+#C..B.....B.#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2560 
+Lower bound: 13359 
+#############
+#C..B...D.B.#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2560 
+Lower bound: 13359 
+#############
+#C..B...D.B.#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 560 
+Lower bound: 13359 
+#############
+#CB.........#
+###B#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 560 
+Lower bound: 13359 
+#############
+#CB.........#
+###B#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 3560 
+Lower bound: 13359 
+#############
+#CB...D.....#
+###B#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3650 
+Lower bound: 13359 
+#############
+#C....D.....#
+###.#B#.#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5560 
+Lower bound: 13359 
+#############
+#C..B.D.D.B.#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5590 
+Lower bound: 13359 
+#############
+#C....D.D.B.#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5560 
+Lower bound: 13359 
+#############
+#CB.....D...#
+###B#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6350 
+Lower bound: 13359 
+#############
+#.......D...#
+###.#B#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 580 
+Lower bound: 13359 
+#############
+#CB.B.......#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 580 
+Lower bound: 13359 
+#############
+#CB.B.......#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2560 
+Lower bound: 13359 
+#############
+#CB.....D...#
+###B#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2560 
+Lower bound: 13359 
+#############
+#CB.....D...#
+###B#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 3560 
+Lower bound: 13359 
+#############
+#C..B.D...B.#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3590 
+Lower bound: 13359 
+#############
+#C....D...B.#
+###.#.#.#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5590 
+Lower bound: 13359 
+#############
+#C....D.D.B.#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5590 
+Lower bound: 13359 
+#############
+#C....D.D.B.#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5560 
+Lower bound: 13359 
+#############
+#CB...D.D...#
+###B#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5650 
+Lower bound: 13359 
+#############
+#C....D.D...#
+###.#B#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2580 
+Lower bound: 13359 
+#############
+#CB.B...D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2580 
+Lower bound: 13359 
+#############
+#CB.B...D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 570 
+Lower bound: 13379 
+#############
+#C..B......B#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 570 
+Lower bound: 13379 
+#############
+#C..B......B#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 600 
+Lower bound: 13379 
+#############
+#CB...B.....#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 600 
+Lower bound: 13379 
+#############
+#CB...B.....#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 3570 
+Lower bound: 13379 
+#############
+#C..B.D....B#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3600 
+Lower bound: 13379 
+#############
+#C....D....B#
+###.#.#.#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2600 
+Lower bound: 13379 
+#############
+#CB...B.D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2600 
+Lower bound: 13379 
+#############
+#CB...B.D...#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 560 
+Lower bound: 13379 
+#############
+#CB.......B.#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 560 
+Lower bound: 13379 
+#############
+#CB.......B.#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2560 
+Lower bound: 13379 
+#############
+#CB.....D.B.#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2560 
+Lower bound: 13379 
+#############
+#CB.....D.B.#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5600 
+Lower bound: 13379 
+#############
+#C....D...DB#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5600 
+Lower bound: 13379 
+#############
+#C....D...DB#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3560 
+Lower bound: 13379 
+#############
+#CB...D...B.#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3610 
+Lower bound: 13379 
+#############
+#C....D...B.#
+###.#.#.#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 2570 
+Lower bound: 13379 
+#############
+#C..B...D..B#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2570 
+Lower bound: 13379 
+#############
+#C..B...D..B#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5600 
+Lower bound: 13379 
+#############
+#C....D.D..B#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5600 
+Lower bound: 13379 
+#############
+#C....D.D..B#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5560 
+Lower bound: 13379 
+#############
+#CB...D.D.B.#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5610 
+Lower bound: 13379 
+#############
+#C....D.D.B.#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5570 
+Lower bound: 13379 
+#############
+#C..B.D.D..B#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5600 
+Lower bound: 13379 
+#############
+#C....D.D..B#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 570 
+Lower bound: 13399 
+#############
+#CB........B#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 570 
+Lower bound: 13399 
+#############
+#CB........B#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 2570 
+Lower bound: 13399 
+#############
+#CB.....D..B#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 2570 
+Lower bound: 13399 
+#############
+#CB.....D..B#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 3570 
+Lower bound: 13399 
+#############
+#CB...D....B#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3620 
+Lower bound: 13399 
+#############
+#C....D....B#
+###.#.#.#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5570 
+Lower bound: 13399 
+#############
+#CB...D.D..B#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5620 
+Lower bound: 13399 
+#############
+#C....D.D..B#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 620 
+Lower bound: 13419 
+#############
+#CB.....B...#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 620 
+Lower bound: 13419 
+#############
+#CB.....B...#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 640 
+Lower bound: 13459 
+#############
+#CB.......B.#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 640 
+Lower bound: 13459 
+#############
+#CB.......B.#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 650 
+Lower bound: 13479 
+#############
+#CB........B#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 650 
+Lower bound: 13479 
+#############
+#CB........B#
+###.#.#.#D###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5200 
+Lower bound: 14499 
+#############
+#...D.C.D...#
+###B#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5200 
+Lower bound: 14499 
+#############
+#...D.C.D...#
+###B#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 3200 
+Lower bound: 14499 
+#############
+#...D.C.....#
+###B#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3200 
+Lower bound: 14499 
+#############
+#...D.C.....#
+###B#.#B#D###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5200 
+Lower bound: 14499 
+#############
+#...D.C.D...#
+###B#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5200 
+Lower bound: 14499 
+#############
+#...D.C.D...#
+###B#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5200 
+Lower bound: 14499 
+#############
+#...D.C...D.#
+###B#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5200 
+Lower bound: 14499 
+#############
+#...D.C...D.#
+###B#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5220 
+Lower bound: 14519 
+#############
+#.B.D.C...D.#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5220 
+Lower bound: 14519 
+#############
+#.B.D.C...D.#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5220 
+Lower bound: 14519 
+#############
+#.B.D.C.D...#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5220 
+Lower bound: 14519 
+#############
+#.B.D.C.D...#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 6510 
+Lower bound: 14519 
+#############
+#.....D....D#
+###.#B#C#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 6510 
+Lower bound: 14519 
+#############
+#.....D....D#
+###.#B#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3220 
+Lower bound: 14519 
+#############
+#.B.D.C.....#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3220 
+Lower bound: 14519 
+#############
+#.B.D.C.....#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 8510 
+Lower bound: 14519 
+#############
+#.......D..D#
+###.#B#C#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 8510 
+Lower bound: 14519 
+#############
+#.......D..D#
+###.#B#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5220 
+Lower bound: 14519 
+#############
+#.B.D.C.D...#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5220 
+Lower bound: 14519 
+#############
+#.B.D.C.D...#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5220 
+Lower bound: 14519 
+#############
+#.B.D.C...D.#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5220 
+Lower bound: 14519 
+#############
+#.B.D.C...D.#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 3230 
+Lower bound: 14539 
+#############
+#B..D.C.....#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3230 
+Lower bound: 14539 
+#############
+#B..D.C.....#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5230 
+Lower bound: 14539 
+#############
+#B..D.C...D.#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5230 
+Lower bound: 14539 
+#############
+#B..D.C...D.#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5240 
+Lower bound: 14539 
+#############
+#.B.D.C.B.D.#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5490 
+Lower bound: 14539 
+#############
+#.B.D.....D.#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3240 
+Lower bound: 14539 
+#############
+#.B.D.C.B...#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3490 
+Lower bound: 14539 
+#############
+#.B.D.......#
+###.#.#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5230 
+Lower bound: 14539 
+#############
+#B..D.C.D...#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5230 
+Lower bound: 14539 
+#############
+#B..D.C.D...#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5490 
+Lower bound: 14539 
+#############
+#.B.D...D...#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5490 
+Lower bound: 14539 
+#############
+#.B.D...D...#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3440 
+Lower bound: 14539 
+#############
+#.B.D...B...#
+###.#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3490 
+Lower bound: 14539 
+#############
+#.B.D.......#
+###.#.#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5490 
+Lower bound: 14539 
+#############
+#.B.D.....D.#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5490 
+Lower bound: 14539 
+#############
+#.B.D.....D.#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5460 
+Lower bound: 14559 
+#############
+#.B.D...D...#
+###B#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5460 
+Lower bound: 14559 
+#############
+#.B.D...D...#
+###B#.#C#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5250 
+Lower bound: 14559 
+#############
+#B..D.C.B.D.#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5500 
+Lower bound: 14559 
+#############
+#B..D.....D.#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3450 
+Lower bound: 14559 
+#############
+#B..D...B...#
+###.#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3500 
+Lower bound: 14559 
+#############
+#B..D.......#
+###.#.#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3460 
+Lower bound: 14559 
+#############
+#.B.D.......#
+###B#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3460 
+Lower bound: 14559 
+#############
+#.B.D.......#
+###B#.#C#D###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 3250 
+Lower bound: 14559 
+#############
+#B..D.C.B...#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3500 
+Lower bound: 14559 
+#############
+#B..D.......#
+###.#.#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5460 
+Lower bound: 14559 
+#############
+#.B.D...D...#
+###B#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5460 
+Lower bound: 14559 
+#############
+#.B.D...D...#
+###B#.#C#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5500 
+Lower bound: 14559 
+#############
+#B..D.....D.#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5500 
+Lower bound: 14559 
+#############
+#B..D.....D.#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5460 
+Lower bound: 14559 
+#############
+#.B.D.....D.#
+###B#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5460 
+Lower bound: 14559 
+#############
+#.B.D.....D.#
+###B#.#C#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5500 
+Lower bound: 14559 
+#############
+#B..D...D...#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5500 
+Lower bound: 14559 
+#############
+#B..D...D...#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3500 
+Lower bound: 14579 
+#############
+#.B.D.B.....#
+###.#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3530 
+Lower bound: 14579 
+#############
+#.B.D.......#
+###.#.#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5500 
+Lower bound: 14579 
+#############
+#.B.D.B.D...#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5530 
+Lower bound: 14579 
+#############
+#.B.D...D...#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3470 
+Lower bound: 14579 
+#############
+#B..D.......#
+###B#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3470 
+Lower bound: 14579 
+#############
+#B..D.......#
+###B#.#C#D###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5470 
+Lower bound: 14579 
+#############
+#B..D.....D.#
+###B#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5470 
+Lower bound: 14579 
+#############
+#B..D.....D.#
+###B#.#C#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5460 
+Lower bound: 14579 
+#############
+#.B.D...D.B.#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5460 
+Lower bound: 14579 
+#############
+#.B.D...D.B.#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 3460 
+Lower bound: 14579 
+#############
+#.B.D.....B.#
+###.#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3530 
+Lower bound: 14579 
+#############
+#.B.D.......#
+###.#.#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3260 
+Lower bound: 14579 
+#############
+#.B.D.C...B.#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3530 
+Lower bound: 14579 
+#############
+#.B.D.......#
+###.#.#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5470 
+Lower bound: 14579 
+#############
+#B..D...D...#
+###B#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5470 
+Lower bound: 14579 
+#############
+#B..D...D...#
+###B#.#C#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5490 
+Lower bound: 14599 
+#############
+#BB.D...D...#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5490 
+Lower bound: 14599 
+#############
+#BB.D...D...#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5470 
+Lower bound: 14599 
+#############
+#.B.D...D..B#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5470 
+Lower bound: 14599 
+#############
+#.B.D...D..B#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5470 
+Lower bound: 14599 
+#############
+#B..D...D.B.#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5470 
+Lower bound: 14599 
+#############
+#B..D...D.B.#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 3470 
+Lower bound: 14599 
+#############
+#.B.D......B#
+###.#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3550 
+Lower bound: 14599 
+#############
+#.B.D.......#
+###.#.#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3270 
+Lower bound: 14599 
+#############
+#.B.D.C....B#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3550 
+Lower bound: 14599 
+#############
+#.B.D.......#
+###.#.#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3490 
+Lower bound: 14599 
+#############
+#BB.D.......#
+###.#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3490 
+Lower bound: 14599 
+#############
+#BB.D.......#
+###.#.#C#D###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 3470 
+Lower bound: 14599 
+#############
+#B..D.....B.#
+###.#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3540 
+Lower bound: 14599 
+#############
+#B..D.......#
+###.#.#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3270 
+Lower bound: 14599 
+#############
+#B..D.C...B.#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3540 
+Lower bound: 14599 
+#############
+#B..D.......#
+###.#.#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3510 
+Lower bound: 14599 
+#############
+#B..D.B.....#
+###.#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3540 
+Lower bound: 14599 
+#############
+#B..D.......#
+###.#.#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5510 
+Lower bound: 14599 
+#############
+#B..D.B.D...#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5540 
+Lower bound: 14599 
+#############
+#B..D...D...#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5490 
+Lower bound: 14599 
+#############
+#BB.D.....D.#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5490 
+Lower bound: 14599 
+#############
+#BB.D.....D.#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5490 
+Lower bound: 14599 
+#############
+#BB.D...D...#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5490 
+Lower bound: 14599 
+#############
+#BB.D...D...#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 3480 
+Lower bound: 14619 
+#############
+#B..D......B#
+###.#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3560 
+Lower bound: 14619 
+#############
+#B..D.......#
+###.#.#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5480 
+Lower bound: 14619 
+#############
+#B..D...D..B#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5480 
+Lower bound: 14619 
+#############
+#B..D...D..B#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 3280 
+Lower bound: 14619 
+#############
+#B..D.C....B#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3560 
+Lower bound: 14619 
+#############
+#B..D.......#
+###.#.#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 6200 
+Lower bound: 14699 
+#############
+#...C.D....D#
+###B#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6200 
+Lower bound: 14699 
+#############
+#...C.D....D#
+###B#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 6220 
+Lower bound: 14719 
+#############
+#.B.C.D....D#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6220 
+Lower bound: 14719 
+#############
+#.B.C.D....D#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 6230 
+Lower bound: 14739 
+#############
+#B..C.D....D#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6230 
+Lower bound: 14739 
+#############
+#B..C.D....D#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 6260 
+Lower bound: 14779 
+#############
+#.B.C.D...BD#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6260 
+Lower bound: 14779 
+#############
+#.B.C.D...BD#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 6270 
+Lower bound: 14799 
+#############
+#B..C.D...BD#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6270 
+Lower bound: 14799 
+#############
+#B..C.D...BD#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 3400 
+Lower bound: 15099 
+#############
+#.C.D.......#
+###B#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3450 
+Lower bound: 15099 
+#############
+#.C.D.......#
+###B#.#.#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 6450 
+Lower bound: 15099 
+#############
+#.C...D....D#
+###.#.#B#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 6450 
+Lower bound: 15099 
+#############
+#.C...D....D#
+###.#.#B#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5400 
+Lower bound: 15099 
+#############
+#.C.D...D...#
+###B#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5450 
+Lower bound: 15099 
+#############
+#.C.D...D...#
+###B#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5450 
+Lower bound: 15099 
+#############
+#.C.D.....D.#
+###B#.#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5450 
+Lower bound: 15099 
+#############
+#.C.D.....D.#
+###B#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5450 
+Lower bound: 15099 
+#############
+#.C.D...D...#
+###B#.#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5450 
+Lower bound: 15099 
+#############
+#.C.D...D...#
+###B#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 6510 
+Lower bound: 15119 
+#############
+#.C...D....D#
+###.#B#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 6510 
+Lower bound: 15119 
+#############
+#.C...D....D#
+###.#B#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5430 
+Lower bound: 15139 
+#############
+#BC.D...D...#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5480 
+Lower bound: 15139 
+#############
+#BC.D...D...#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3430 
+Lower bound: 15139 
+#############
+#BC.D.......#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3480 
+Lower bound: 15139 
+#############
+#BC.D.......#
+###.#.#.#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5450 
+Lower bound: 15139 
+#############
+#BC.D.B.D...#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5480 
+Lower bound: 15139 
+#############
+#BC.D...D...#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3450 
+Lower bound: 15139 
+#############
+#BC.D.B.....#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3480 
+Lower bound: 15139 
+#############
+#BC.D.......#
+###.#.#.#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 6430 
+Lower bound: 15139 
+#############
+#BC...D....D#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6430 
+Lower bound: 15139 
+#############
+#BC...D....D#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5480 
+Lower bound: 15139 
+#############
+#BC.D.....D.#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5480 
+Lower bound: 15139 
+#############
+#BC.D.....D.#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5480 
+Lower bound: 15139 
+#############
+#BC.D...D...#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5480 
+Lower bound: 15139 
+#############
+#BC.D...D...#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 6500 
+Lower bound: 15159 
+#############
+#BC...D....D#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 6500 
+Lower bound: 15159 
+#############
+#BC...D....D#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 6470 
+Lower bound: 15199 
+#############
+#BC...D...BD#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6470 
+Lower bound: 15199 
+#############
+#BC...D...BD#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 6550 
+Lower bound: 15299 
+#############
+#C....D....D#
+###.#.#B#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 6550 
+Lower bound: 15299 
+#############
+#C....D....D#
+###.#.#B#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5500 
+Lower bound: 15299 
+#############
+#C..D...D...#
+###B#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5550 
+Lower bound: 15299 
+#############
+#C..D...D...#
+###B#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3500 
+Lower bound: 15299 
+#############
+#C..D.......#
+###B#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3550 
+Lower bound: 15299 
+#############
+#C..D.......#
+###B#.#.#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5550 
+Lower bound: 15299 
+#############
+#C..D.....D.#
+###B#.#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5550 
+Lower bound: 15299 
+#############
+#C..D.....D.#
+###B#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5550 
+Lower bound: 15299 
+#############
+#C..D...D...#
+###B#.#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5550 
+Lower bound: 15299 
+#############
+#C..D...D...#
+###B#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5570 
+Lower bound: 15319 
+#############
+#CB.D...D...#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5570 
+Lower bound: 15319 
+#############
+#CB.D...D...#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 6610 
+Lower bound: 15319 
+#############
+#C....D....D#
+###.#B#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 6610 
+Lower bound: 15319 
+#############
+#C....D....D#
+###.#B#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5540 
+Lower bound: 15319 
+#############
+#CB.D.B.D...#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5570 
+Lower bound: 15319 
+#############
+#CB.D...D...#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5520 
+Lower bound: 15319 
+#############
+#CB.D...D...#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5570 
+Lower bound: 15319 
+#############
+#CB.D...D...#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3570 
+Lower bound: 15319 
+#############
+#CB.D.......#
+###.#.#.#D###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 3570 
+Lower bound: 15319 
+#############
+#CB.D.......#
+###.#.#.#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5570 
+Lower bound: 15319 
+#############
+#CB.D.....D.#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5570 
+Lower bound: 15319 
+#############
+#CB.D.....D.#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3540 
+Lower bound: 15319 
+#############
+#CB.D.B.....#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3570 
+Lower bound: 15319 
+#############
+#CB.D.......#
+###.#.#.#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3520 
+Lower bound: 15319 
+#############
+#CB.D.......#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3570 
+Lower bound: 15319 
+#############
+#CB.D.......#
+###.#.#.#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5570 
+Lower bound: 15319 
+#############
+#CB.D...D...#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 5570 
+Lower bound: 15319 
+#############
+#CB.D...D...#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3540 
+Lower bound: 15339 
+#############
+#CB.D...B...#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3590 
+Lower bound: 15339 
+#############
+#CB.D.......#
+###.#.#.#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 3560 
+Lower bound: 15359 
+#############
+#CB.D.......#
+###B#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3560 
+Lower bound: 15359 
+#############
+#CB.D.......#
+###B#.#.#D###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5560 
+Lower bound: 15359 
+#############
+#CB.D...D...#
+###B#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5560 
+Lower bound: 15359 
+#############
+#CB.D...D...#
+###B#.#.#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5560 
+Lower bound: 15359 
+#############
+#CB.D.....D.#
+###B#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5560 
+Lower bound: 15359 
+#############
+#CB.D.....D.#
+###B#.#.#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 3560 
+Lower bound: 15379 
+#############
+#CB.D.....B.#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3630 
+Lower bound: 15379 
+#############
+#CB.D.......#
+###.#.#.#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5560 
+Lower bound: 15379 
+#############
+#CB.D...D.B.#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5560 
+Lower bound: 15379 
+#############
+#CB.D...D.B.#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5570 
+Lower bound: 15399 
+#############
+#CB.D...D..B#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5570 
+Lower bound: 15399 
+#############
+#CB.D...D..B#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 3570 
+Lower bound: 15399 
+#############
+#CB.D......B#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 3650 
+Lower bound: 15399 
+#############
+#CB.D.......#
+###.#.#.#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 4000 
+Lower bound: 16499 
+#############
+#.....D.....#
+###B#C#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4000 
+Lower bound: 16499 
+#############
+#.....D.....#
+###B#C#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4020 
+Lower bound: 16499 
+#############
+#...B.D.....#
+###.#C#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4020 
+Lower bound: 16499 
+#############
+#...B.D.....#
+###.#C#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 6200 
+Lower bound: 16499 
+#############
+#...D.C....D#
+###B#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6200 
+Lower bound: 16499 
+#############
+#...D.C....D#
+###B#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 6220 
+Lower bound: 16519 
+#############
+#.B.D.C....D#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6220 
+Lower bound: 16519 
+#############
+#.B.D.C....D#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 4020 
+Lower bound: 16519 
+#############
+#.B...D.....#
+###.#C#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4020 
+Lower bound: 16519 
+#############
+#.B...D.....#
+###.#C#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4440 
+Lower bound: 16519 
+#############
+#...B.D.....#
+###B#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4440 
+Lower bound: 16519 
+#############
+#...B.D.....#
+###B#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 6240 
+Lower bound: 16539 
+#############
+#.B.D.C.B..D#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6490 
+Lower bound: 16539 
+#############
+#.B.D......D#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 4460 
+Lower bound: 16539 
+#############
+#.B.B.D.....#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4460 
+Lower bound: 16539 
+#############
+#.B.B.D.....#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4030 
+Lower bound: 16539 
+#############
+#B....D.....#
+###.#C#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4030 
+Lower bound: 16539 
+#############
+#B....D.....#
+###.#C#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 6230 
+Lower bound: 16539 
+#############
+#B..D.C....D#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6230 
+Lower bound: 16539 
+#############
+#B..D.C....D#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 6490 
+Lower bound: 16539 
+#############
+#.B.D......D#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 6490 
+Lower bound: 16539 
+#############
+#.B.D......D#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 6460 
+Lower bound: 16559 
+#############
+#.B.D......D#
+###B#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6460 
+Lower bound: 16559 
+#############
+#.B.D......D#
+###B#.#C#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 4460 
+Lower bound: 16559 
+#############
+#...B.D...B.#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4460 
+Lower bound: 16559 
+#############
+#...B.D...B.#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4460 
+Lower bound: 16559 
+#############
+#.B...D.....#
+###B#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4460 
+Lower bound: 16559 
+#############
+#.B...D.....#
+###B#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4470 
+Lower bound: 16559 
+#############
+#B..B.D.....#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4470 
+Lower bound: 16559 
+#############
+#B..B.D.....#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 6500 
+Lower bound: 16559 
+#############
+#B..D......D#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 6500 
+Lower bound: 16559 
+#############
+#B..D......D#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 6250 
+Lower bound: 16559 
+#############
+#B..D.C.B..D#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6500 
+Lower bound: 16559 
+#############
+#B..D......D#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 4060 
+Lower bound: 16559 
+#############
+#...B.D...B.#
+###.#C#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4060 
+Lower bound: 16559 
+#############
+#...B.D...B.#
+###.#C#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4480 
+Lower bound: 16559 
+#############
+#.B.B.D.....#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4480 
+Lower bound: 16559 
+#############
+#.B.B.D.....#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4070 
+Lower bound: 16579 
+#############
+#...B.D....B#
+###.#C#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4070 
+Lower bound: 16579 
+#############
+#...B.D....B#
+###.#C#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4060 
+Lower bound: 16579 
+#############
+#.B...D...B.#
+###.#C#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4060 
+Lower bound: 16579 
+#############
+#.B...D...B.#
+###.#C#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 6470 
+Lower bound: 16579 
+#############
+#B..D......D#
+###B#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6470 
+Lower bound: 16579 
+#############
+#B..D......D#
+###B#.#C#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 6260 
+Lower bound: 16579 
+#############
+#.B.D.C...BD#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6530 
+Lower bound: 16579 
+#############
+#.B.D......D#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 4470 
+Lower bound: 16579 
+#############
+#...B.D....B#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4470 
+Lower bound: 16579 
+#############
+#...B.D....B#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4460 
+Lower bound: 16579 
+#############
+#.B...D...B.#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4460 
+Lower bound: 16579 
+#############
+#.B...D...B.#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4470 
+Lower bound: 16579 
+#############
+#B....D.....#
+###B#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4470 
+Lower bound: 16579 
+#############
+#B....D.....#
+###B#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4490 
+Lower bound: 16579 
+#############
+#B..B.D.....#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4490 
+Lower bound: 16579 
+#############
+#B..B.D.....#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4470 
+Lower bound: 16599 
+#############
+#B....D...B.#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4470 
+Lower bound: 16599 
+#############
+#B....D...B.#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4470 
+Lower bound: 16599 
+#############
+#.B...D....B#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4470 
+Lower bound: 16599 
+#############
+#.B...D....B#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 6490 
+Lower bound: 16599 
+#############
+#BB.D......D#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6490 
+Lower bound: 16599 
+#############
+#BB.D......D#
+###.#.#C#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 4490 
+Lower bound: 16599 
+#############
+#BB...D.....#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4490 
+Lower bound: 16599 
+#############
+#BB...D.....#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4070 
+Lower bound: 16599 
+#############
+#B....D...B.#
+###.#C#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4070 
+Lower bound: 16599 
+#############
+#B....D...B.#
+###.#C#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 6270 
+Lower bound: 16599 
+#############
+#B..D.C...BD#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6540 
+Lower bound: 16599 
+#############
+#B..D......D#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 4070 
+Lower bound: 16599 
+#############
+#.B...D....B#
+###.#C#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4070 
+Lower bound: 16599 
+#############
+#.B...D....B#
+###.#C#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4080 
+Lower bound: 16619 
+#############
+#B....D....B#
+###.#C#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4080 
+Lower bound: 16619 
+#############
+#B....D....B#
+###.#C#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4480 
+Lower bound: 16619 
+#############
+#B....D....B#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4480 
+Lower bound: 16619 
+#############
+#B....D....B#
+###.#.#C#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4200 
+Lower bound: 16699 
+#############
+#...C.D.....#
+###B#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4200 
+Lower bound: 16699 
+#############
+#...C.D.....#
+###B#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4220 
+Lower bound: 16719 
+#############
+#.B.C.D.....#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4220 
+Lower bound: 16719 
+#############
+#.B.C.D.....#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4230 
+Lower bound: 16739 
+#############
+#B..C.D.....#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4230 
+Lower bound: 16739 
+#############
+#B..C.D.....#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4260 
+Lower bound: 16779 
+#############
+#.B.C.D...B.#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4260 
+Lower bound: 16779 
+#############
+#.B.C.D...B.#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4270 
+Lower bound: 16799 
+#############
+#B..C.D...B.#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4270 
+Lower bound: 16799 
+#############
+#B..C.D...B.#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4270 
+Lower bound: 16799 
+#############
+#.B.C.D....B#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4270 
+Lower bound: 16799 
+#############
+#.B.C.D....B#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4280 
+Lower bound: 16819 
+#############
+#B..C.D....B#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4280 
+Lower bound: 16819 
+#############
+#B..C.D....B#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4420 
+Lower bound: 17099 
+#############
+#.C.B.D.....#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4420 
+Lower bound: 17099 
+#############
+#.C.B.D.....#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4400 
+Lower bound: 17099 
+#############
+#.C...D.....#
+###B#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4400 
+Lower bound: 17099 
+#############
+#.C...D.....#
+###B#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 6450 
+Lower bound: 17099 
+#############
+#.C.D......D#
+###B#.#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 6450 
+Lower bound: 17099 
+#############
+#.C.D......D#
+###B#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 4420 
+Lower bound: 17099 
+#############
+#.C.B.D.....#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4420 
+Lower bound: 17099 
+#############
+#.C.B.D.....#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4440 
+Lower bound: 17119 
+#############
+#.C.B.D.....#
+###B#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4440 
+Lower bound: 17119 
+#############
+#.C.B.D.....#
+###B#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4430 
+Lower bound: 17139 
+#############
+#BC...D.....#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4430 
+Lower bound: 17139 
+#############
+#BC...D.....#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 6480 
+Lower bound: 17139 
+#############
+#BC.D......D#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 6480 
+Lower bound: 17139 
+#############
+#BC.D......D#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 4470 
+Lower bound: 17159 
+#############
+#BC.B.D.....#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4470 
+Lower bound: 17159 
+#############
+#BC.B.D.....#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4460 
+Lower bound: 17159 
+#############
+#.C.B.D...B.#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4460 
+Lower bound: 17159 
+#############
+#.C.B.D...B.#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4470 
+Lower bound: 17179 
+#############
+#.C.B.D....B#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4470 
+Lower bound: 17179 
+#############
+#.C.B.D....B#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4470 
+Lower bound: 17199 
+#############
+#BC...D...B.#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4470 
+Lower bound: 17199 
+#############
+#BC...D...B.#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4480 
+Lower bound: 17219 
+#############
+#BC...D....B#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4480 
+Lower bound: 17219 
+#############
+#BC...D....B#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 6550 
+Lower bound: 17299 
+#############
+#C..D......D#
+###B#.#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 6550 
+Lower bound: 17299 
+#############
+#C..D......D#
+###B#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 4520 
+Lower bound: 17299 
+#############
+#C..B.D.....#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4520 
+Lower bound: 17299 
+#############
+#C..B.D.....#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4500 
+Lower bound: 17299 
+#############
+#C....D.....#
+###B#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4500 
+Lower bound: 17299 
+#############
+#C....D.....#
+###B#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4520 
+Lower bound: 17299 
+#############
+#C..B.D.....#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4520 
+Lower bound: 17299 
+#############
+#C..B.D.....#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 6570 
+Lower bound: 17319 
+#############
+#CB.D......D#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 6570 
+Lower bound: 17319 
+#############
+#CB.D......D#
+###.#.#.#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 4540 
+Lower bound: 17319 
+#############
+#C..B.D.....#
+###B#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4540 
+Lower bound: 17319 
+#############
+#C..B.D.....#
+###B#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4520 
+Lower bound: 17319 
+#############
+#CB...D.....#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4520 
+Lower bound: 17319 
+#############
+#CB...D.....#
+###.#.#B#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4560 
+Lower bound: 17339 
+#############
+#CB.B.D.....#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4560 
+Lower bound: 17339 
+#############
+#CB.B.D.....#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4560 
+Lower bound: 17359 
+#############
+#CB...D.....#
+###B#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4560 
+Lower bound: 17359 
+#############
+#CB...D.....#
+###B#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4580 
+Lower bound: 17359 
+#############
+#CB.B.D.....#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4580 
+Lower bound: 17359 
+#############
+#CB.B.D.....#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4560 
+Lower bound: 17359 
+#############
+#C..B.D...B.#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4560 
+Lower bound: 17359 
+#############
+#C..B.D...B.#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 6560 
+Lower bound: 17359 
+#############
+#CB.D......D#
+###B#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 6560 
+Lower bound: 17359 
+#############
+#CB.D......D#
+###B#.#.#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 4560 
+Lower bound: 17379 
+#############
+#CB...D...B.#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4560 
+Lower bound: 17379 
+#############
+#CB...D...B.#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4570 
+Lower bound: 17379 
+#############
+#C..B.D....B#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4570 
+Lower bound: 17379 
+#############
+#C..B.D....B#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 4570 
+Lower bound: 17399 
+#############
+#CB...D....B#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+After simplification this becomes:
+Score: 4570 
+Lower bound: 17399 
+#############
+#CB...D....B#
+###.#.#.#.###
+  #A#D#C#A#
+  #########
+
+We investigate this entry:
+Score: 5200 
+Lower bound: 18499 
+#############
+#.D...C.....#
+###B#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5250 
+Lower bound: 18499 
+#############
+#.D...C.....#
+###.#.#B#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 7200 
+Lower bound: 18499 
+#############
+#.D...C.D...#
+###B#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 7250 
+Lower bound: 18499 
+#############
+#.D...C.D...#
+###.#.#B#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 7250 
+Lower bound: 18499 
+#############
+#.D...C.D...#
+###.#.#B#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 7250 
+Lower bound: 18499 
+#############
+#.D...C.D...#
+###.#.#B#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 7250 
+Lower bound: 18499 
+#############
+#.D...C...D.#
+###.#.#B#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 7250 
+Lower bound: 18499 
+#############
+#.D...C...D.#
+###.#.#B#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5230 
+Lower bound: 18539 
+#############
+#BD...C.....#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5230 
+Lower bound: 18539 
+#############
+#BD...C.....#
+###.#.#B#D###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 7230 
+Lower bound: 18539 
+#############
+#BD...C.D...#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 7230 
+Lower bound: 18539 
+#############
+#BD...C.D...#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 7490 
+Lower bound: 18539 
+#############
+#.B.D.D.....#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 7490 
+Lower bound: 18539 
+#############
+#.B.D.D.....#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 7230 
+Lower bound: 18539 
+#############
+#BD...C...D.#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 7230 
+Lower bound: 18539 
+#############
+#BD...C...D.#
+###.#.#B#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 7500 
+Lower bound: 18559 
+#############
+#B..D.D.....#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 7500 
+Lower bound: 18559 
+#############
+#B..D.D.....#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 5250 
+Lower bound: 18559 
+#############
+#BD...C.B...#
+###.#.#.#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5500 
+Lower bound: 18559 
+#############
+#BD.........#
+###.#.#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 7460 
+Lower bound: 18559 
+#############
+#.B.D.D.....#
+###B#.#C#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 7460 
+Lower bound: 18559 
+#############
+#.B.D.D.....#
+###B#.#C#.###
+  #A#.#C#A#
+  #########
+
+We investigate this entry:
+Score: 5450 
+Lower bound: 18559 
+#############
+#BD.....B...#
+###.#.#C#D###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 5500 
+Lower bound: 18559 
+#############
+#BD.........#
+###.#.#C#D###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 7500 
+Lower bound: 18559 
+#############
+#BD.....D...#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+After simplification this becomes:
+Score: 7500 
+Lower bound: 18559 
+#############
+#BD.....D...#
+###.#.#C#.###
+  #A#B#C#A#
+  #########
+
+We investigate this entry:
+Score: 7250 
+Lower bound: 18559 
+#############
+#BD...C.B.D.#
+###.#.#.#.###
+  #A#.#C#A#
+  #########
+After simplification this becomes:
+Score: 18559 
+Lower bound: 18559 
+#############
+#...........#
+###A#B#C#D###
+  #A#B#C#D#
+  #########
+
+18559
+None
